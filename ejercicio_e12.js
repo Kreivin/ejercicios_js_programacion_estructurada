@@ -1,0 +1,17 @@
+const mascotas =[
+    {nombe:"Luna", edad: , tipo"",peso: },
+    {nombe:"MAx", edad: , tipo"",peso: },
+    {nombe:"Coco", edad: , tipo"",peso: },
+    {nombe:"Rocky", edad: , tipo"",peso: },
+    {nombe:"Milo", edad: , tipo"",peso: },
+    {nombe:"Bella", edad: , tipo"",peso: },
+    {nombe:"Toby", edad: , tipo"",peso: },
+    {nombe:"Simba", edad: , tipo"",peso: },
+    {nombe:"Nala", edad: , tipo"",peso: },
+    {nombe:"Oreo", edad: , tipo"",peso: },
+    {nombe:"Daisy", edad: , tipo"",peso: },
+    {nombe:"Zeus", edad: , tipo"",peso: },
+    {nombe:"Mimi", edad: , tipo"",peso: },
+    {nombe:"Bunny", edad: , tipo"",peso: },
+    {nombe:"Thor", edad: , tipo"",peso: },
+];
